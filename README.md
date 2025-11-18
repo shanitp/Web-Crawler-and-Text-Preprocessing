@@ -1,10 +1,4 @@
-Perfect 👍 — here’s a **complete, professional-quality README.md** for your GitHub project **“Web Crawler Sentiment Analysis”** written in Markdown. It explains what your project does, how to set it up, how to run it, and includes code snippets and visuals.
-
----
-
 ## 🧠 Web Crawler Sentiment Analysis
-
-### 🔍 Overview
 
 **Web Crawler Sentiment Analysis** is a Python-based project that automatically fetches the latest **Yahoo Finance news articles** for a given stock (like Apple, Tesla, or Nvidia), stores them in a CSV file, and performs **sentiment analysis** using the **VADER NLP model**.
 The goal is to identify whether the market sentiment toward a stock is **positive, neutral, or negative** based on real-time financial news headlines.
@@ -34,7 +28,7 @@ Web-Crawler-Sentiment-Analysis/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/Web-Crawler-Sentiment-Analysis.git
+   git clone https://github.com/shanitp/Web-Crawler-and-Text-Preprocessing.git
    cd Web-Crawler-Sentiment-Analysis/crawler
    ```
 
@@ -97,8 +91,6 @@ Output example (`crawler_sentiment.csv`):
 
 ### ▶️ Run the Full Pipeline
 
-You can run the entire process (scraping + sentiment analysis) in one command:
-
 ```bash
 python main.py
 ```
@@ -147,7 +139,7 @@ Output:
 
 ### 👨‍💻 Author
 
-**Shani T.P**
+**Shani Thalappully Preman**
 💼 [LinkedIn Profile](https://www.linkedin.com/in/shani-tp/)
 🌐 [GitHub Profile](https://github.com/shanitp)
 
